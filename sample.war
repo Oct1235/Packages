@@ -1,0 +1,11 @@
+--2020-04-15 07:53:19--  http://tomcat.apache.org/tomcat-7.0-doc/appdev/sample/sample.war
+Resolving tomcat.apache.org (tomcat.apache.org)... 40.79.78.1, 95.216.24.32, 2a01:4f9:2a:185f::2
+Connecting to tomcat.apache.org (tomcat.apache.org)|40.79.78.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4606 (4.5K)
+Saving to: ‘sample.war.1’
+
+     0K ....                                                  100%  123M=0s
+
+2020-04-15 07:53:19 (123 MB/s) - ‘sample.war.1’ saved [4606/4606]
+
